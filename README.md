@@ -100,7 +100,7 @@ This is an educational adaptation, not an original implementation of the Flappy 
 
 The structure and basic mechanics of the game appear to follow the Java tutorial/example project by [itsme-jd](https://github.com/itsme-jd/Flappy-bird-game-using-java), which links to this [coding tutorial on YouTube](https://youtu.be/jj5ADM2uywg). This is a likely reference for the starting implementation; the exact provenance of each individual image and sound file has not been confirmed.
 
-Other images, backgrounds, and sound effects were collected from publicly available online sources. Unfortunately, the original source pages and individual authors were not recorded, so their provenance and licenses could not be reliably verified. They are listed here transparently rather than attributed to an unconfirmed author. Please contact the project owner if you are a rights holder and have questions about an asset.
+Other images, backgrounds, and sound effects were collected from publicly available online sources. Unfortunately, the original source pages and individual authors were not recorded, so their provenance and licenses could not be reliably verified. They are listed here transparently rather than attributed to an unconfirmed author. Please contact if you are a rights holder and have questions about an asset.
 
 The game code in this repository has been adapted and extended for this educational project.
 
